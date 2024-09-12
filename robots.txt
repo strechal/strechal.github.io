@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://strechal.github.io/sitemap.html.gz
+Sitemap: https://strechal.github.io/app/sitemap.html.gz
+Sitemap: https://strechal.github.io/assets/sitemap.html.gz
+Sitemap: https://strechal.github.io/css/sitemap.html.gz
+Sitemap: https://strechal.github.io/includes/sitemap.html.gz
+Sitemap: https://strechal.github.io/item/sitemap.html.gz
+Sitemap: https://strechal.github.io/src/sitemap.html.gz
